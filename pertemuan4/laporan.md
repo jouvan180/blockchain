@@ -8,7 +8,7 @@
 | NIM        | 2530801089                |
 | Prodi      | Informatika               |
 | Kelas      | Informatika 2D            |
-| Semester   | 3                        |
+| Semester   | 3                         |
 | Pertemuan  | 4                         |
 | Tema       | Blockchain Data Mahasiswa |
 
@@ -195,3 +195,7 @@ streamlit run app.py
 ## 11. Kesimpulan
 
 Project ini berhasil menerapkan konsep dasar blockchain menggunakan Python dan Streamlit. Data mahasiswa disimpan dalam block yang memiliki **index, timestamp, data, previous hash, dan hash**. SHA-256 digunakan untuk menghasilkan hash, sedangkan validasi dilakukan dengan memeriksa hash dan hubungan antar-block.
+
+## 12. Bukti pengujian
+
+![Bukti Pengujian](bukti-pengujian.png)
