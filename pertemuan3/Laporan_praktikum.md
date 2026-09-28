@@ -13,4 +13,4 @@ Pointers.
 1. Membuat 2 buah file di dalam folder pertemuan 3 yaitu: `core.py` dan `app.py`.
 
 Laporan Keberhasilan
-![alt text](image.png)
+![alt text](hasil_laporan.png)
