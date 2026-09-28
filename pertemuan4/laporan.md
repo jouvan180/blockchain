@@ -198,4 +198,4 @@ Project ini berhasil menerapkan konsep dasar blockchain menggunakan Python dan S
 
 ## 12. Bukti pengujian
 
-![Bukti Pengujian](bukti-pengujian.png)
+![Bukti Pengujian](bukti_pengujian.png)
